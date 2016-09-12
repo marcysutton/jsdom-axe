@@ -1,0 +1,15 @@
+{
+  "name": "jsdom-axe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Marcy Sutton",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^9.4.5"
+  },
+  "devDependencies": {},
+  "description": "A testing demo for JSDOM and aXe"
+}
